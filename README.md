@@ -13,7 +13,7 @@
 ![churrascaria3](https://user-images.githubusercontent.com/123756073/220760346-e7cd023d-7d2c-4c73-a770-a36aef989bcf.png)
 ![churrascaria4](https://user-images.githubusercontent.com/123756073/220760368-46731cc9-5552-422c-818f-210a28e9f2b6.png)
 
-## 🛠 Tecnologias
+## 🚀 Tecnologias
 ### feito exclusivamente por meio do Visual Studio Code
 
 ## 🦸 Autor
