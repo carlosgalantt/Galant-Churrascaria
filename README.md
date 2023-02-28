@@ -4,7 +4,6 @@
 
 ### É um site para uma churrascaria fictícia em que há informações sobre a empresa e em quais cidades do Brasil há a presença dela.
 <br>
-<br>
 
 ## 🎨 Layout web
 
