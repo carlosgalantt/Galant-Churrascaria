@@ -20,12 +20,12 @@ ul{
     padding-top: 40px;
     text-decoration: none;
     list-style-type: none;
-    color:white;
+    color:#fff;
     margin-top: -90 ;
 }
 a{
     text-decoration: none;
-    color: white;
+    color: #fff;
     font-size: 25px ;
     padding: 12px;
     border-radius: 10px;
@@ -38,7 +38,7 @@ a{
     font-size: 70px;
 }
 a:hover{
-    background-color: white;
+    background-color: #fff;
     color:  #260D0D;
     transition: 1s;
 }
@@ -104,29 +104,29 @@ footer{
     text-align: center;
 }
 .imagem1:hover{
-    border: 5px solid white;
+    border: 5px solid #fff;
 }
 .imagem2:hover{
-    border: 5px solid white;
+    border: 5px solid #fff;
 }
 .imagem3:hover{
-    border: 5px solid white;
+    border: 5px solid #fff;
 }
 .imagem4:hover{
-    border: 5px solid white;
+    border: 5px solid #fff;
 }
 .oi{
     text-align: center;
 }
 .titulof{
-    color: white;
+    color: #fff;
     font-family:'Lobster', cursive;
     padding-top: 30px;
     font-size: 50px;
 }
 .direitos{
-    color: white;
-    border-top: 1px solid white;
+    color: #fff;
+    border-top: 1px solid #fff;
     width: 900px;
     margin-left: 220px;
     margin-top: 35px;
